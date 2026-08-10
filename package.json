@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"fflate": "^0.8.2",
-		"partyserver": "0.3.2",
+		"partyserver": "0.5.10",
 		"y-partyserver": "2.1.2",
 		"yjs": "^13.6.20"
 	},
